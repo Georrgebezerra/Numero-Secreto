@@ -1,4 +1,5 @@
 #Secret-Number
+
 A simple Secret Number game in C.
 
 Secret Number:
